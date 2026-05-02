@@ -1,0 +1,7 @@
+module todo-backend
+
+go 1.21
+
+require github.com/gorilla/mux v1.8.1
+
+require github.com/gorilla/handlers v1.5.2
